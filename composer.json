@@ -20,8 +20,8 @@
     },
     "require":{
         "contao-bootstrap/core":"~2.0",
-        "contao-bootstrap/layout":"~2.0",
-        "contao-bootstrap/navbar":"~2.0",
+        "mstudio-dev/layout":"~2.0",
+        "mstudio-dev/navbar":"~2.0",
         "contao-bootstrap/grid":"~2.0",
         "contao-bootstrap/form":"~2.0",
         "contao-bootstrap/panel":"~2.0",
