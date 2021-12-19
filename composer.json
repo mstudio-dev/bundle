@@ -20,14 +20,14 @@
     },
     "require":{
         "contao-bootstrap/core":"~2.0",
-        "mstudio-dev/layout":"patch-1",
-        "mstudio-dev/navbar":"patch-1",
+        "mstudio-dev/layout":"*",
+        "mstudio-dev/navbar":"*",
         "contao-bootstrap/grid":"~2.0",
         "contao-bootstrap/form":"~2.0",
         "contao-bootstrap/panel":"~2.0",
         "contao-bootstrap/tab":"~2.0",
         "contao-bootstrap/templates":"~2.0",
-        "contao-bootstrap/card":"patch-1"
+        "contao-bootstrap/card":"*"
 
     },
     "conflict": {
