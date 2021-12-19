@@ -1,5 +1,5 @@
 {
-    "name":"contao-bootstrap/bundle",
+    "name":"mstudio-dev/contao-bootstrap-bundle",
     "description":"Install all modules of the Contao Bootstrap extension",
     "keywords":["bootstrap", "contao"],
     "type":"metapackage",
