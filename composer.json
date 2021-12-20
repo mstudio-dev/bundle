@@ -27,7 +27,7 @@
         "contao-bootstrap/panel":"~2.0",
         "contao-bootstrap/tab":"~2.0",
         "contao-bootstrap/templates":"~2.0",
-        "contao-bootstrap/card":"*"
+        "mstudio-dev/card":"*"
 
     },
     "conflict": {
